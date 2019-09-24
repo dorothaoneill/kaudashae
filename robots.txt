@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chiechaibu.consolecowboy.space/sitemap.xml
